@@ -1,8 +1,8 @@
-{ 
-      "dependencies": {
-        "lite-server": "^2.3.0"        
+{
+    "dependencies": {
+        "lite-server": "^2.3.0"
     },
-    "scripts": {    
+    "scripts": {
         "dev": "lite-server"
     }
 }
